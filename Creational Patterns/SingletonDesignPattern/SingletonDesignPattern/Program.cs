@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -14,6 +14,11 @@ namespace SingletonDesignPattern
   {
     public static void Main(string[] args)
     {
+      var db = SingletonDataContainer.Instance;
+      var db2 = SingletonDataContainer.Instance;
+      var db3 = SingletonDataContainer.Instance;
+      var db4 = SingletonDataContainer.Instance;
+
       CreateWebHostBuilder(args).Build().Run();
     }
 

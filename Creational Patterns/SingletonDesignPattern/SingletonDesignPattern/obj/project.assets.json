@@ -12075,11 +12075,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Design Patterns\\Creational Patterns\\SingletonDesignPattern\\SingletonDesignPattern\\SingletonDesignPattern.csproj",
+      "projectUniqueName": "C:\\Design Patterns\\DesignPatterns\\Creational Patterns\\SingletonDesignPattern\\SingletonDesignPattern\\SingletonDesignPattern.csproj",
       "projectName": "SingletonDesignPattern",
-      "projectPath": "C:\\Design Patterns\\Creational Patterns\\SingletonDesignPattern\\SingletonDesignPattern\\SingletonDesignPattern.csproj",
+      "projectPath": "C:\\Design Patterns\\DesignPatterns\\Creational Patterns\\SingletonDesignPattern\\SingletonDesignPattern\\SingletonDesignPattern.csproj",
       "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-      "outputPath": "C:\\Design Patterns\\Creational Patterns\\SingletonDesignPattern\\SingletonDesignPattern\\obj\\",
+      "outputPath": "C:\\Design Patterns\\DesignPatterns\\Creational Patterns\\SingletonDesignPattern\\SingletonDesignPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
