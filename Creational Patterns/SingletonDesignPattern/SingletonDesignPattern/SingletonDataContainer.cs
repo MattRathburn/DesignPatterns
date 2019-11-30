@@ -26,8 +26,18 @@ namespace SingletonDesignPattern
       return _capitals[name];
     }
 
-    private static SingletonDataContainer instance = new SingletonDataContainer();
+    public int GetNumber(string name)
+    {
+      throw new NotImplementedException();
+    }
 
-    public static SingletonDataContainer Instance => instance;
+    public string GetString(string name)
+    {
+      throw new NotImplementedException();
+    }
+
+    private static Lazy<SingletonDataContainer> instance = new Lazy<SingletonDataContainer>(() => new SingletonDataContainer());
+
+    public static SingletonDataContainer Instance => instance.Value;
   }
 }

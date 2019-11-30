@@ -7,6 +7,7 @@ namespace SingletonDesignPattern
 {
   public interface ISingletonContainer
   {
-    int GetPopulation(string name);
+    int GetNumber(string name);
+    string GetString(string name);
   }
 }
