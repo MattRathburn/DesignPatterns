@@ -11,11 +11,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational Patterns", "Crea
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural Patterns", "Structural Patterns", "{59500165-D458-49D0-9A5D-4A183A655013}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{A44C5326-418A-4C8B-9E9E-EE1D74CD5475}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "Creational Patterns\SingletonPattern\SingletonPattern.csproj", "{A44C5326-418A-4C8B-9E9E-EE1D74CD5475}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{FB8D3B8A-7124-4C5C-A1EE-E0611BC5B186}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "Structural Patterns\ProxyPattern\ProxyPattern.csproj", "{FB8D3B8A-7124-4C5C-A1EE-E0611BC5B186}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "StatePattern\StatePattern.csproj", "{99663ED9-A29D-44DB-943A-4F0021181B48}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "Behavioral Patterns\StatePattern\StatePattern.csproj", "{99663ED9-A29D-44DB-943A-4F0021181B48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
