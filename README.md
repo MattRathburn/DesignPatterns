@@ -16,7 +16,7 @@ This repository is for me, and others who may be lurking, to better understand s
 - Decorator Pattern
 - Facade Pattern
 - Flyweight Pattern
-- Proxy Pattern
+- [Proxy Pattern](https://github.com/MattRathburn/DesignPatterns/tree/master/src/DesignPatterns/ProxyPattern)
 
 # Behavioral Patterns
 - Chain of Responsibility Pattern
