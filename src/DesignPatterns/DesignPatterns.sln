@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29806.167
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral Patterns", "Behavioral Patterns", "{2E9FB98D-84E3-4928-B71D-759FB53AC293}"
 EndProject
@@ -15,11 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProxyPattern", "Structural 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatePattern", "Behavioral Patterns\StatePattern\StatePattern.csproj", "{99663ED9-A29D-44DB-943A-4F0021181B48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "Creational Patterns\BuilderPattern\BuilderPattern.csproj", "{C5A7F9AC-42B5-494F-95AB-D5624E9A0862}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderPattern", "Creational Patterns\BuilderPattern\BuilderPattern.csproj", "{C5A7F9AC-42B5-494F-95AB-D5624E9A0862}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "Structural Patterns\AdapterPattern\AdapterPattern.csproj", "{20CBD567-358C-4A99-9DFF-EF6E2EF73FB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterPattern", "Structural Patterns\AdapterPattern\AdapterPattern.csproj", "{20CBD567-358C-4A99-9DFF-EF6E2EF73FB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "Behavioral Patterns\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{3904BF25-48E1-4074-85E5-C54C97DB0B7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibilityPattern", "Behavioral Patterns\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{3904BF25-48E1-4074-85E5-C54C97DB0B7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsEntry", "DesignPatternsEntry\DesignPatternsEntry.csproj", "{7F7E4FBA-3BD0-436F-9494-F37BE73D73CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{3904BF25-48E1-4074-85E5-C54C97DB0B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3904BF25-48E1-4074-85E5-C54C97DB0B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3904BF25-48E1-4074-85E5-C54C97DB0B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F7E4FBA-3BD0-436F-9494-F37BE73D73CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7E4FBA-3BD0-436F-9494-F37BE73D73CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7E4FBA-3BD0-436F-9494-F37BE73D73CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7E4FBA-3BD0-436F-9494-F37BE73D73CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
