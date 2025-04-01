@@ -1,0 +1,28 @@
+## Behavioral Design Patterns
+Behavioral design patterns define how objects interact and communicate. They encapsulate algorithms, responsibility, and communication between objects while promoting loose coupling. Examples include Strategy, which lets you swap algorithms dynamically, Observer, which establishes a one-to-many dependency, and Command, which encapsulates requests as objects. These patterns make systems flexible and maintainable by ensuring that behavior can change without modifying the objects themselves.
+
+[Chain of Responsibility](#chain-of-responsibility)
+[Command](#command)
+[Iterator](#iterator)
+[Mediator](#mediator)
+[Observer](#observer)
+[Visitor](#visitor)
+[State](#state)
+
+## Chain of Responsibility
+
+## Command
+
+## Iterator
+
+## Iterator
+
+## Mediator
+
+## Mediator
+
+## Observer
+
+## Visitor
+
+## State

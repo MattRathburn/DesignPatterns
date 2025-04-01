@@ -1,0 +1,21 @@
+## Structural Design Patterns
+Structural design patterns focus on object composition, ensuring that systems remain flexible and efficient. They help form larger structures while keeping dependencies manageable. Examples include Adapter, which bridges incompatible interfaces, Decorator, which dynamically extends object behavior, and Composite, which allows tree structures to be treated uniformly. These patterns enhance code reusability, scalability, and maintainability.
+
+[Facade](#facade)
+[Adapter](#adapter)
+[Bridge](#bridge)
+[Composite](#composite)
+[Flyweight](#flyweight)
+[Proxy](#proxy)
+
+## Facade
+
+## Adapter
+
+## Bridge
+
+## Composite
+
+## Flyweight
+
+## Proxy
