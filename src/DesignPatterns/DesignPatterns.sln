@@ -4,10 +4,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral Patterns", "Behavioral Patterns", "{2E9FB98D-84E3-4928-B71D-759FB53AC293}"
+	ProjectSection(SolutionItems) = preProject
+		.README = .README
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational Patterns", "Creational Patterns", "{AD99ED70-336F-485D-8464-57485A7AEB2D}"
+	ProjectSection(SolutionItems) = preProject
+		Creational Patterns\.README = Creational Patterns\.README
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural Patterns", "Structural Patterns", "{59500165-D458-49D0-9A5D-4A183A655013}"
+	ProjectSection(SolutionItems) = preProject
+		Structural Patterns\.README = Structural Patterns\.README
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonPattern", "Creational Patterns\SingletonPattern\SingletonPattern.csproj", "{A44C5326-418A-4C8B-9E9E-EE1D74CD5475}"
 EndProject
@@ -22,6 +31,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibilityPattern", "Behavioral Patterns\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{3904BF25-48E1-4074-85E5-C54C97DB0B7B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsEntry", "DesignPatternsEntry\DesignPatternsEntry.csproj", "{7F7E4FBA-3BD0-436F-9494-F37BE73D73CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "Creational Patterns\FactoryPattern\FactoryPattern.csproj", "{AE03DC46-5891-4707-B7B5-44D21EEAE9AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +68,10 @@ Global
 		{7F7E4FBA-3BD0-436F-9494-F37BE73D73CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F7E4FBA-3BD0-436F-9494-F37BE73D73CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F7E4FBA-3BD0-436F-9494-F37BE73D73CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE03DC46-5891-4707-B7B5-44D21EEAE9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE03DC46-5891-4707-B7B5-44D21EEAE9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE03DC46-5891-4707-B7B5-44D21EEAE9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE03DC46-5891-4707-B7B5-44D21EEAE9AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -68,6 +83,7 @@ Global
 		{C5A7F9AC-42B5-494F-95AB-D5624E9A0862} = {AD99ED70-336F-485D-8464-57485A7AEB2D}
 		{20CBD567-358C-4A99-9DFF-EF6E2EF73FB5} = {59500165-D458-49D0-9A5D-4A183A655013}
 		{3904BF25-48E1-4074-85E5-C54C97DB0B7B} = {2E9FB98D-84E3-4928-B71D-759FB53AC293}
+		{AE03DC46-5891-4707-B7B5-44D21EEAE9AB} = {AD99ED70-336F-485D-8464-57485A7AEB2D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5FBB5F17-DBD7-4A7B-BBA6-67949F353CEB}
